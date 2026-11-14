@@ -1,10 +1,5 @@
 MIT License
 
-This is a Swift/MLX port of TAESD (Tiny AutoEncoder for Stable Diffusion). The
-original TAESD architecture and reference weights are the work of Ollin Boer
-Bohan (https://github.com/madebyollin/taesd) and are used here under the MIT
-license; this port is a derivative work of that reference.
-
 Copyright (c) 2023 Ollin Boer Bohan (original TAESD)
 Copyright (c) 2026 Mark Friedlander (Swift / MLX port)
 
